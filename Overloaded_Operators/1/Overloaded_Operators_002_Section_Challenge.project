@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Project Name="Overloaded_Operators_Copy_and_Move_OO_Practice" Version="11000" InternalType="Console">
+<CodeLite_Project Name="Overloaded_Operators_002_Section_Challenge" Version="11000" InternalType="Console">
   <Description/>
   <Dependencies/>
   <Settings Type="Executable">
@@ -93,6 +93,8 @@
     </Configuration>
   </Settings>
   <VirtualDirectory Name="src">
+    <File Name="MyString.cpp"/>
+    <File Name="MyString.h"/>
     <File Name="main.cpp"/>
   </VirtualDirectory>
 </CodeLite_Project>
