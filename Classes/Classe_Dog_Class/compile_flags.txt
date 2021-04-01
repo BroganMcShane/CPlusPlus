@@ -1,0 +1,10 @@
+-IC:\Program
+-IC:\Users\y0ung\Documents\Classes_2\Classes_2_4_CLASSES_FINAL_PRACTICE
+-IC:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++
+-IC:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32
+-IC:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\backward
+-IC:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include
+-IC:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include-fixed
+-IC:\Program Files\mingw-w64\mingw64\x86_64-w64-mingw32\include
+-target
+x86_64-pc-windows-gnu

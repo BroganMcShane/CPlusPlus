@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Pointers" Database="" Version="10000">
+  <Project Name="Pointers_1" Path="Pointers_1/Pointers_1.project" Active="No"/>
+  <Project Name="Pointers_2" Path="Pointers_2/Pointers_2.project" Active="No"/>
+  <Project Name="Pointers_3" Path="Pointers_3/Pointers_3.project" Active="No"/>
+  <Project Name="Pointers_4" Path="Pointers_4/Pointers_4.project" Active="No"/>
+  <Project Name="Pointers_5" Path="Pointers_5/Pointers_5.project" Active="No"/>
+  <Project Name="Pointers_6" Path="Pointers_6/Pointers_6.project" Active="No"/>
+  <Project Name="Pointers_7" Path="Pointers_7/Pointers_7.project" Active="Yes"/>
+  <Project Name="Pointers_Section_Challenge" Path="Pointers_Section_Challenge/Pointers_Section_Challenge.project" Active="No"/>
+  <Project Name="Classes" Path="Classes/Classes.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Pointers_1" ConfigName="Debug"/>
+      <Project Name="Pointers_2" ConfigName="Debug"/>
+      <Project Name="Pointers_3" ConfigName="Debug"/>
+      <Project Name="Pointers_4" ConfigName="Debug"/>
+      <Project Name="Pointers_5" ConfigName="Debug"/>
+      <Project Name="Pointers_6" ConfigName="Debug"/>
+      <Project Name="Pointers_7" ConfigName="Debug"/>
+      <Project Name="Pointers_Section_Challenge" ConfigName="Debug"/>
+      <Project Name="Classes" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Pointers_1" ConfigName="Release"/>
+      <Project Name="Pointers_2" ConfigName="Release"/>
+      <Project Name="Pointers_3" ConfigName="Release"/>
+      <Project Name="Pointers_4" ConfigName="Release"/>
+      <Project Name="Pointers_5" ConfigName="Release"/>
+      <Project Name="Pointers_6" ConfigName="Release"/>
+      <Project Name="Pointers_7" ConfigName="Release"/>
+      <Project Name="Pointers_Section_Challenge" ConfigName="Release"/>
+      <Project Name="Classes" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

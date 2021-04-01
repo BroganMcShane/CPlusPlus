@@ -1,0 +1,93 @@
+std	C:\Users\y0ung\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^namespace std { template<typename _Tp> class shared_ptr {$/;"	namespace	line:1
+shared_ptr	C:\Users\y0ung\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^namespace std { template<typename _Tp> class shared_ptr { $/;"	class	line:1	namespace:std
+operator ->	C:\Users\y0ung\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    _Tp* operator->();$/;"	prototype	line:2	class:std::shared_ptr	access:private	signature:()	returns:_Tp 
+reset	C:\Users\y0ung\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    void reset( Y* ptr );$/;"	prototype	line:3	class:std::shared_ptr	access:private	signature:( Y* ptr )	returns:void 
+reset	C:\Users\y0ung\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    void reset( Y* ptr, Deleter d );$/;"	prototype	line:4	class:std::shared_ptr	access:private	signature:( Y* ptr, Deleter d )	returns:void 
+reset	C:\Users\y0ung\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    void reset( Y* ptr, Deleter d, Alloc alloc );$/;"	prototype	line:5	class:std::shared_ptr	access:private	signature:( Y* ptr, Deleter d, Alloc alloc )	returns:void 
+get	C:\Users\y0ung\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    _T* get() const;$/;"	prototype	line:6	class:std::shared_ptr	access:private	signature:() const	returns:_T 
+
+swap	C:\Users\y0ung\Documents\Pointers\Pointers_6\main.cpp	/^void swap(int *a, int *b){$/;"	function	line:7	signature:(int *a, int *b)	returns:void 
+main	C:\Users\y0ung\Documents\Pointers\Pointers_6\main.cpp	/^int main(){$/;"	function	line:13	signature:()	returns:int 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+main	C:\Users\y0ung\Documents\Pointers\Pointers_2\main.cpp	/^int main(){$/;"	function	line:6	signature:()	returns:int 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+print_array	C:\Users\y0ung\Documents\Pointers\Pointers_Section_Challenge\main.cpp	/^void print_array(int array[], int size);$/;"	prototype	line:5	signature:(int array[], int size)	returns:void 
+apply_all	C:\Users\y0ung\Documents\Pointers\Pointers_Section_Challenge\main.cpp	/^int *apply_all(int array1[], int array1_size, int array2[], int array2_size);$/;"	prototype	line:6	signature:(int array1[], int array1_size, int array2[], int array2_size)	returns:int 
+main	C:\Users\y0ung\Documents\Pointers\Pointers_Section_Challenge\main.cpp	/^int main(){$/;"	function	line:9	signature:()	returns:int 
+print_array	C:\Users\y0ung\Documents\Pointers\Pointers_Section_Challenge\main.cpp	/^void print_array(int array[], int size){$/;"	function	line:27	signature:(int array[], int size)	returns:void 
+apply_all	C:\Users\y0ung\Documents\Pointers\Pointers_Section_Challenge\main.cpp	/^int *apply_all(int array1[], int array1_size, int array2[], int array2_size){$/;"	function	line:34	signature:(int array1[], int array1_size, int array2[], int array2_size)	returns:int 
+
+main	C:\Users\y0ung\Documents\Pointers\Pointers_3\main.cpp	/^int main(){$/;"	function	line:5	signature:()	returns:int 
+
+main	C:\Users\y0ung\Documents\Pointers\Classes\main.cpp	/^int main(int argc, char **argv)$/;"	function	line:3	signature:(int argc, char **argv)	returns:int 
+double_data	C:\Users\y0ung\Documents\Pointers\Pointers_5\main.cpp	/^void double_data(int *data_ptr){$/;"	function	line:5	signature:(int *data_ptr)	returns:void 
+main	C:\Users\y0ung\Documents\Pointers\Pointers_5\main.cpp	/^int main(){$/;"	function	line:13	signature:()	returns:int 
+
+
+
+
+
+
+main	C:\Users\y0ung\Documents\Pointers\Pointers_1\main.cpp	/^int main(){$/;"	function	line:4	signature:()	returns:int 
+
+
+
+main	C:\Users\y0ung\Documents\Pointers\Pointers_4\main.cpp	/^int main(){$/;"	function	line:5	signature:()	returns:int 
+
+
+
+largest_ptr	C:\Users\y0ung\Documents\Pointers\Pointers_7\main.cpp	/^int *largest_ptr(int *int_ptr1, int *int_ptr2);$/;"	prototype	line:5	signature:(int *int_ptr1, int *int_ptr2)	returns:int 
+main	C:\Users\y0ung\Documents\Pointers\Pointers_7\main.cpp	/^int main(){$/;"	function	line:7	signature:()	returns:int 
+largest_ptr	C:\Users\y0ung\Documents\Pointers\Pointers_7\main.cpp	/^int *largest_ptr(int *int_ptr1, int *int_ptr2){$/;"	function	line:18	signature:(int *int_ptr1, int *int_ptr2)	returns:int 
